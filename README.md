@@ -1,6 +1,5 @@
 -  Hi, I’m @akhilnev
 -  I’m interested in learning and working on new and interesting projects
--  I’m currently learning html, css and javascript. Have prior experience with java, python , matlab and solidworks.
 -  I’m looking to collaborate on open source projects.
 -  To connect with me drop a message on Linkedin.
 
