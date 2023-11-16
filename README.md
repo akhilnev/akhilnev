@@ -4,7 +4,10 @@ I'm a software developer who is passionate about learning and working on new and
 
 🔭 What I'm Working On
 
-Currently, I'm sharpening my skills in backedn development and exploring the world of machine learning , quant and leetcode. I'm also involved in few open source projects where I'm contributing to the community and learning from others.
+- Currently, I'm sharpening my skills in backend development and exploring the world of Machine Learning and Devops with Full Stack Development. I am extremely excited about integrating Open AI Specs into my projects and building new projects using them, and am working towards learning how to do the same!
+
+- I am also looking to explore MLOps and deploy my ML project using Tensorflow Serving. Any reccomendations on how to go about the same would also be great!
+
 
 🤝 Let's Collaborate
 
