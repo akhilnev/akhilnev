@@ -27,6 +27,13 @@ Thanks for stopping by, and I look forward to connecting with you soon!
   </a>
 </p>
 
+## 📈 GitHub Streak Stats
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilnev&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
+</p>
+
 ## 📊 GitHub Stats and Top Languages
 ![akhilnev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhilnev&theme=tokyonight&hide_border=false)
 
