@@ -18,6 +18,30 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
 
 Thanks for stopping by, and I look forward to connecting with you soon!
 
+## 📊 GitHub Stats
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilnev&show_icons=true&hide=contribs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats">
+</p>
+
+## 📊 Top Languages
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&layout=compact" alt="Top Languages">
+</p>
+
+## 📈 GitHub Activity Graph
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilnev&hide=issues&bg_color=151515" alt="GitHub Activity Graph">
+  </a>
+</p>
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&layout=compact)
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilnev&show_icons=true&hide=contribs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
  
