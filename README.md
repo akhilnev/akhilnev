@@ -27,7 +27,7 @@ Thanks for stopping by, and I look forward to connecting with you soon!
   </a>
 </p>
 
-## 📈 GitHub Streak Stats and Top Languages Stats
+## 📈 GitHub Streaks and Top Languages Stats
 
 <!-- GitHub Streak Stats -->
 <p align="center">
