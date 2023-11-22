@@ -20,7 +20,6 @@ Thanks for stopping by, and I look forward to connecting with you soon!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&layout=compact)
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilnev&show_icons=true&hide=contribs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
  
  [![Akhilesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akhilnev)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
