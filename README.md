@@ -19,12 +19,8 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
 Thanks for stopping by, and I look forward to connecting with you soon!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&layout=compact)
-
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilnev&show_icons=true&hide=contribs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akhilnev&bg_color=151515&color=ffffff&line=bb2acf&point=ffffff&area=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilnev&show_icons=true&hide=contribs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-  <!-- Add Contribution Graph -->
-  ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akhilnev&bg_color=151515&color=ffffff&line=bb2acf&point=ffffff&area=true)
+
 
