@@ -35,7 +35,6 @@ Thanks for stopping by, and I look forward to connecting with you soon!
 </p>
 
 ## 📊 GitHub Stats and Top Languages
-![akhilnev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhilnev&theme=tokyonight&hide_border=false)
 
 <!-- GitHub Stats and Top Languages -->
 <div style="display: flex; justify-content: space-between; margin: 20px;">
