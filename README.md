@@ -35,13 +35,6 @@ Thanks for stopping by, and I look forward to connecting with you soon!
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
 </p>
 
-## 📊 GitHub Stats and Top Languages
-
-<!-- GitHub Stats and Top Languages -->
-<div style="display: flex; justify-content: space-between; margin: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilnev&show_icons=true&hide=contribs,issues&hide_rank=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" style="width: 45%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&layout=compact" alt="Top Languages" style="width: 45%;">
-</div>
 
 
 
