@@ -42,20 +42,6 @@ Thanks for stopping by, and I look forward to connecting with you soon!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&layout=compact" alt="Top Languages" style="width: 45%;">
 </div>
 
-<script>
-  function toggleStats() {
-    var statsSection = document.getElementById("statsSection");
-    var streakStats = document.getElementById("streakStats");
-
-    if (statsSection.style.display === "none") {
-      statsSection.style.display = "flex";
-      streakStats.style.display = "none";
-    } else {
-      statsSection.style.display = "none";
-      streakStats.style.display = "block";
-    }
-  }
-</script>
 
 
 
