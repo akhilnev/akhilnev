@@ -13,7 +13,11 @@ I'm a software developer who is passionate about learning and working on new and
 
 🤝 Let's Collaborate
 
-If you have an exciting project that you think I'd be interested in, or if you're looking for a collaborator on an open source project, I'd love to hear from you! You can connect with me on LinkedIn to start a conversation.
+If you have an exciting project that you think I'd be interested in, or if you're looking for a collaborator on an open source project, I'd love to hear from you! You can connect with me on LinkedIn or via email to start a conversation.
+
+- Email: [Akhilesh Nevatia](mailto:Akhilesh.nevatia@gmail.com)
+
+- LinkedIn: [Akhilesh Nevatia](https://www.linkedin.com/in/akhilnev/)
 
 🌱 Always Learning
 
