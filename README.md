@@ -31,7 +31,7 @@ Thanks for stopping by, and I look forward to connecting with you soon!
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilnev&show_icons=true&hide=contribs,issues&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilnev&show_icons=true&hide=contribs,issues&hide_rank=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats">
 </p>
 
 ## 📊 Top Languages
