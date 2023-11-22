@@ -30,10 +30,10 @@ Thanks for stopping by, and I look forward to connecting with you soon!
 ## 📊 GitHub Stats and Top Languages
 
 <!-- GitHub Stats and Top Languages -->
-<p align="center" style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilnev&show_icons=true&hide=contribs,issues&hide_rank=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" style="margin-right: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&layout=compact" alt="Top Languages" style="margin-left: 20px;">
-</p>
+<div style="display: flex; justify-content: space-between; margin: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilnev&show_icons=true&hide=contribs,issues&hide_rank=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="GitHub Stats" style="width: 45%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&layout=compact" alt="Top Languages" style="width: 45%;">
+</div>
 
 ## 📊 GitHub Stats
 
