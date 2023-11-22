@@ -6,7 +6,9 @@ I'm a software developer who is passionate about learning and working on new and
 
 - Currently, I'm sharpening my skills in backend development and exploring the world of Machine Learning and Devops with Full Stack Development. I am extremely excited about integrating Open AI Specs into my projects and building new projects using them, and am working towards learning how to do the same!
 
-- I am also looking to explore MLOps and deploy my ML project using Tensorflow Serving. Any reccomendations on how to go about the same would also be great!
+- I am looking to explore MLOps and deploy my ML project using Tensorflow Serving. Any reccomendations on how to go about the same would also be great!
+
+- I am also looking to start Open-Source contributing soon, which you will see on my page :)
 
 
 🤝 Let's Collaborate
