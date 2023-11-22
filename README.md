@@ -15,9 +15,9 @@ I'm a software developer who is passionate about learning and working on new and
 
 If you have an exciting project that you think I'd be interested in, or if you're looking for a collaborator on an open source project, I'd love to hear from you! You can connect with me on LinkedIn or via email to start a conversation.
 
-- Email: [Akhilesh's Gmail](mailto:Akhilesh.nevatia@gmail.com)
+- [Akhilesh's Gmail](mailto:Akhilesh.nevatia@gmail.com)
 
-- LinkedIn: [Akhilesh's Linkedin](https://www.linkedin.com/in/akhilnev/)
+- [Akhilesh's Linkedin](https://www.linkedin.com/in/akhilnev/)
 
 🌱 Always Learning
 
