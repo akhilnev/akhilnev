@@ -10,7 +10,7 @@ I'm a software developer passionate about learning and working on new and exciti
 - Exploring the DevOps side of SWE by containerizing my existing projects in Docker, and hosting them on AWS
 - Integrating OpenAI Specs into my projects and enhancing their abilities.
 - Learning Typescript and enhancing my MERN Stack knowledge
-- Exploring MLOps and learning how to deploy my ML [project](https://www.linkedin.com/in/akhilnev/StockNNetPredict) using Tensorflow Serving.
+- Exploring MLOps and learning how to deploy my ML [project](https://www.github.com/akhilnev/StockNNetPredict) using Tensorflow Serving.
 
 ## 🤝 Let's Collaborate
 
