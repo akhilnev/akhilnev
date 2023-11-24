@@ -38,15 +38,3 @@ Thanks for stopping by, and I look forward to connecting with you soon!
 </p>
 
 ![Spotify](https://novatorem.vercel.app/api/spotify)
-
-
-
-
-
-
-
-
-
-
-
-
