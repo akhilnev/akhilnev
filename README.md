@@ -6,7 +6,7 @@ I'm a software developer passionate about learning and working on new and exciti
 
 ## 🔭 What I'm Working On
 
-- Currently sharpening my skills in backend and full-stack development( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), and [iOS](https://www.github.com/akhilnev/Iwear) )
+- Currently sharpening my skills in backend and full-stack development ( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), and [iOS](https://www.github.com/akhilnev/Iwear) )
 - Exploring the DevOps side of SWE by containerizing my existing projects in [Docker](https://www.github.com/akhilnev/docker-roadmap), and hosting them on AWS
 - Integrating OpenAI Specs into my projects and enhancing their abilities.
 - Learning Typescript and enhancing my MERN Stack knowledge
