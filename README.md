@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Akhilesh Nevatia!
 
-![Snake animation](https://github.com/akhilnev/akhilnev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile;Feel+Free+to+explore!;)](https://git.io/typing-svg)
 
