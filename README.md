@@ -6,10 +6,10 @@ I'm a software developer passionate about learning and working on new and exciti
 
 ## 🔭 What I'm Working On
 
-- Currently sharpening my skills in backend development(Android, Web and iOS)
-- Exploring Machine Learning with Neural networks and DevOps with Full Stack Development.
+- Currently sharpening my skills in backend and full-stack development(Android, Web and iOS)
+- Exploring the DevOps side of SWE by containerizing my existing projects in Docker, learning how to host them on the AWS Cloud
 - Excited about integrating OpenAI Specs into my projects and enhancing their abilities.
-- Exploring MLOps and aiming to deploy my ML [project](https://www.linkedin.com/in/akhilnev/StockNNetPredict) using Tensorflow Serving.
+- Exploring MLOps and learning how to deploy my ML [project](https://www.linkedin.com/in/akhilnev/StockNNetPredict) using Tensorflow Serving.
 
 ## 🤝 Let's Collaborate
 
