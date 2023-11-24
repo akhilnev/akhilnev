@@ -29,7 +29,7 @@ Thanks for stopping by, and I look forward to connecting with you soon!
   </a>
 </p>
 
-![Overview: ](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Overview: ](https://github-readme-stats.vercel.app/api?username=akhilnev&show_icons=true&theme=radical)
 
 
 ## 📈 GitHub Streaks and Top Languages Stats
