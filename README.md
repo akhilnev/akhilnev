@@ -1,5 +1,7 @@
 # 👋 Hello there, I'm Akhilesh Nevatia!
 
+![Snake animation](https://github.com/akhilnev/akhilnev/blob/output/github-contribution-grid-snake.svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile;Feel+Free+to+explore!;)](https://git.io/typing-svg)
 
 I'm a software developer passionate about learning and working on new and exciting projects. My goal is to collaborate with like-minded individuals to create innovative solutions that make a positive impact.
