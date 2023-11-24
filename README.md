@@ -6,9 +6,10 @@ I'm a software developer passionate about learning and working on new and exciti
 
 ## 🔭 What I'm Working On
 
-- Currently sharpening my skills in backend development and exploring Machine Learning and DevOps with Full Stack Development.
-- Excited about integrating OpenAI Specs into my projects and building new projects using them.
-- Exploring MLOps and aiming to deploy my ML project using Tensorflow Serving.
+- Currently sharpening my skills in backend development(Android, Web and iOS)
+- Exploring Machine Learning with Neural networks and DevOps with Full Stack Development.
+- Excited about integrating OpenAI Specs into my projects and enhancing their abilities.
+- Exploring MLOps and aiming to deploy my ML [project](https://www.linkedin.com/in/akhilnev/StockNNetPredict) using Tensorflow Serving.
 
 ## 🤝 Let's Collaborate
 
