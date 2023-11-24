@@ -20,7 +20,7 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
 
 Thanks for stopping by, and I look forward to connecting with you soon!
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity Graph and Overiview
 
 <!-- GitHub Activity Graph -->
 <p align="center">
@@ -28,6 +28,9 @@ Thanks for stopping by, and I look forward to connecting with you soon!
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilnev&hide=issues&bg_color=151515" alt="GitHub Activity Graph">
   </a>
 </p>
+
+![Overview: ](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 
 ## 📈 GitHub Streaks and Top Languages Stats
 
