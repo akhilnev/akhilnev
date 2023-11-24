@@ -1,6 +1,5 @@
 # 👋 Hello there, I'm Akhilesh Nevatia!
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile;Feel+Free+to+explore!;)](https://git.io/typing-svg)
 
@@ -39,5 +38,7 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilnev&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
 </p>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!<3)](https://git.io/typing-svg)
