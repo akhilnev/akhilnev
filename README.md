@@ -38,4 +38,4 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
 </p>
 
-## Thanks for stopping by, and I look forward to connecting with you soon!
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;;I+look+forward+to+connecting+with+you+soon!)](https://git.io/typing-svg)
