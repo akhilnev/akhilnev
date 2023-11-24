@@ -1,5 +1,7 @@
 # 👋 Hello there, I'm Akhilesh Nevatia!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 I'm a software developer passionate about learning and working on new and exciting projects. My goal is to collaborate with like-minded individuals to create innovative solutions that make a positive impact.
 
 ## 🔭 What I'm Working On
