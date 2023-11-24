@@ -32,9 +32,8 @@ Thanks for stopping by, and I look forward to connecting with you soon!
 ## 📈 GitHub Streaks and Top Languages Stats
 
 <!-- GitHub Streak Stats -->
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilnev&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 60%;">
 </p>
-<p align="right">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 30%;">
-</p>
+
