@@ -37,6 +37,9 @@ Thanks for stopping by, and I look forward to connecting with you soon!
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
 </p>
 
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
+
 
 
 
