@@ -21,8 +21,6 @@ If you have an exciting project or are looking for a collaborator on an open-sou
 
 I'm a firm believer in continuous learning and growth. Whether it's attending conferences, participating in hackathons, or tinkering with new technologies in my free time, I'm always looking for ways to challenge myself and push my limits.
 
-Thanks for stopping by, and I look forward to connecting with you soon!
-
 ## 📈 GitHub Activity Graph 
 
 <!-- GitHub Activity Graph -->
@@ -40,3 +38,4 @@ Thanks for stopping by, and I look forward to connecting with you soon!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
 </p>
 
+## Thanks for stopping by, and I look forward to connecting with you soon!
