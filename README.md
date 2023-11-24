@@ -8,10 +8,10 @@ I'm a software developer passionate about learning and working on new and exciti
 
 - Currently sharpening my skills in backend and full-stack development ( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), and [iOS](https://www.github.com/akhilnev/Iwear) )
 - Exploring the DevOps side of SWE by containerizing my existing projects in [Docker](https://www.github.com/akhilnev/docker-roadmap), and hosting them on AWS
-- Integrating OpenAI Specs into my projects and enhancing their abilities.
 - Learning Typescript and enhancing my MERN Stack knowledge
 - Exploring MLOps and learning how to deploy my ML [project](https://www.github.com/akhilnev/StockNNetPredict) using Tensorflow Serving.
 - Finishing my [Pokemon game](https://www.github.com/akhilnev/327), and further exploring C++
+- Excited about Integrating OpenAI Specs into my projects, Algorithmic Trading, and Gen-AI 
 
 ## 🤝 Let's Collaborate
 
