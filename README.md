@@ -41,7 +41,7 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
 
 ![Snake animation](https://github.com/akhilnev/akhilnev/blob/output/github-contribution-grid-snake.svg)
 
-## Currently Coding and Listening To 🎧
+## 🎧 Currently Coding and Listening To 
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&cover_image=true&theme=novatorem&show_offline=true&background_color=ffa57d&interchange=false&bar_color=2c1376&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&redirect=true)
 
