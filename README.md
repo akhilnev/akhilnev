@@ -43,6 +43,6 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
 
 ## Currently Coding and Listening To 🎧
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffa57d&interchange=true&bar_color=2c1376&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&cover_image=true&theme=novatorem&show_offline=true&background_color=ffa57d&interchange=false&bar_color=2c1376&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&redirect=true)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!<3)](https://git.io/typing-svg)
