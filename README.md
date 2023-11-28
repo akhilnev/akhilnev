@@ -40,14 +40,13 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
 </p>
 
 ## 💻 Programming Languages
-![Java](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-java) ![Python](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-python) ![JavaScript](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-js) ![C++](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-c++)
+![Java](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-java) &nbsp; ![Python](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-python) &nbsp; ![JavaScript](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-js) &nbsp; ![C++](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-c++)
 
 ## 🛢️ Databases and Cloud Platforms
-![MySQL](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-mysql) ![MongoDB](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-mongodb) ![AWS](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-aws)
+![MySQL](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-mysql) &nbsp; ![MongoDB](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-mongodb) &nbsp; ![AWS](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-aws)
 
 ## 🐳 Containerization and Orchestration
-![Docker](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-docker) ![Kubernetes](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-kubernetes)
-
+![Docker](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-docker) &nbsp; ![Kubernetes](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-kubernetes)
 
 ##  ⌨️ and 🎧  To 
 
