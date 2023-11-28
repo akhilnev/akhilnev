@@ -39,9 +39,6 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
 </p>
 
-## 💻 Programming Languages
-![Java](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-java) &nbsp; ![Python](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-python) &nbsp; ![JavaScript](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-js) &nbsp; ![C++](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-c++)
-
 ## 🛢️ Databases and Cloud Platforms
 ![MySQL](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-mysql) &nbsp; ![MongoDB](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-mongodb) &nbsp; ![AWS](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-aws)
 
