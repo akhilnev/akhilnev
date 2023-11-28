@@ -39,14 +39,17 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
 </p>
 
-## Languages I have worked with
-![Ezicons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-java,skills-dark-python,skills-dark-c++,skills-dark-js)
+## 💻 Programming Languages
+![Java](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-java) ![Python](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-python) ![JavaScript](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-js) ![C++](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-c++)
 
-## Databases/Cloud I have worked with
-![Ezicons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-mysql,skills-dark-mongodb,skills-dark-aws)
+## 🛢️ Databases and Cloud Platforms
+![MySQL](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-mysql) ![MongoDB](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-mongodb) ![AWS](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-aws)
+
+## 🐳 Containerization and Orchestration
+![Docker](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-docker) ![Kubernetes](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-kubernetes)
 
 
-## 🎧 Currently Coding and Listening To 
+##  ⌨️ and 🎧  To 
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&cover_image=true&theme=novatorem&show_offline=true&background_color=ffa57d&interchange=false&bar_color=2c1376&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&redirect=true)
 
