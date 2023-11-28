@@ -40,7 +40,7 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
 </p>
 
 ## Languages I have worked with
-![Ezicons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-java,skills-dark-Python,skills-dark-c++,skills-dark-js)
+![Ezicons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-java,skills-dark-python,skills-dark-c++,skills-dark-js)
 
 ## Databases/Cloud I have worked with
 ![Ezicons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-mysql,skills-dark-mongodb,skills-dark-aws)
