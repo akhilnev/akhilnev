@@ -39,8 +39,16 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilnev&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" style="width: 45%;">
 </p>
 
+## Languages I have worked with
+![Ezicons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-java,skills-dark-Python,skills-dark-c++,skills-dark-js)
+
+## Databases/Cloud I have worked with
+![Ezicons](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-mysql,skills-dark-mongodb,skills-dark-aws)
+
+
 ## 🎧 Currently Coding and Listening To 
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&cover_image=true&theme=novatorem&show_offline=true&background_color=ffa57d&interchange=false&bar_color=2c1376&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&redirect=true)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!<3)](https://git.io/typing-svg)
