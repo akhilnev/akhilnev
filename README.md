@@ -1,5 +1,5 @@
 # 👋 Hello there, I'm Akhilesh Nevatia!
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile;Feel+Free+to+explore!;)](https://git.io/typing-svg)
 
