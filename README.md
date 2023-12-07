@@ -10,7 +10,7 @@ I'm a software developer passionate about learning and working on new and exciti
 - Gaining DevOps experience by containerizing my existing projects in [Docker](https://www.github.com/akhilnev/docker-roadmap) and learning orchestration using Kubernetes, hosting them on AWS (EKS)
 - Learning Typescript and enhancing my MERN Stack knowledge
 - Exploring MLOps and learning how to deploy my ML [project](https://www.github.com/akhilnev/StockNNetPredict) using Tensorflow Serving.
-- Finishing my [Pokemon game](https://www.github.com/akhilnev/327), and further exploring C++
+- Finishing my [Pokemon game](https://www.github.com/akhilnev/327), building my own Orderbook,and further exploring the power of C++ 
 - Excited about Integrating OpenAI Specs into my projects, Algorithmic Trading, and Gen-AI 
 
 ## 🤝 Let's Collaborate
