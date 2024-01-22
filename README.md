@@ -4,14 +4,14 @@
 
 I'm a software developer passionate about learning and working on new and exciting projects. My goal is to collaborate with like-minded individuals to create innovative solutions that make a positive impact.
 
-## 🔭 What I'm Working On
+## 🔭 What I'm Working On 
 
 - Currently sharpening my skills in backend and full-stack development ( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), and [iOS](https://www.github.com/akhilnev/Iwear) )
 - Gaining DevOps experience by containerizing my existing projects in [Docker](https://www.github.com/akhilnev/docker-roadmap) and learning orchestration using Kubernetes, hosting them on AWS (EKS)
-- Learning Typescript and enhancing my MERN Stack knowledge
+- Learning Typescript and enhancing my [MERN Stack knowledge](https://github.com/akhilnev/100x_playground)
 - Exploring MLOps and learning how to deploy my ML [project](https://www.github.com/akhilnev/StockNNetPredict) using Tensorflow Serving.
-- Finishing my [Pokemon game](https://www.github.com/akhilnev/327), building my own Orderbook,and further exploring the power of C++ 
-- Excited about Integrating OpenAI Specs into my projects, Algorithmic Trading, and Gen-AI 
+- Building and enhancing a [Pokemon game](https://www.github.com/akhilnev/327), and an [Orderbook](https://github.com/akhilnev/OrderBook) in C++ to explore writing low-level code, as opposed to my comfort language Java.
+- Excited about Integrating OpenAI Specs into my projects, learning more about Algorithmic Trading, and playing around with Gen-AI 
 
 ## 🤝 Let's Collaborate
 
