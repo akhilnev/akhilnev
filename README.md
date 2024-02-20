@@ -11,7 +11,7 @@ I'm a software developer passionate about learning and working on new and exciti
 - Learning Typescript and enhancing my [MERN Stack knowledge](https://github.com/akhilnev/100x_playground)
 - Exploring MLOps and learning how to deploy my ML [project](https://www.github.com/akhilnev/StockNNetPredict) using Tensorflow Serving.
 - Building and enhancing a [Pokemon game](https://www.github.com/akhilnev/327), and an [Orderbook](https://github.com/akhilnev/OrderBook) in C++ to explore writing low-level code, as opposed to my comfort language Java.
-- Excited about Integrating OpenAI Specs into my projects, learning more about Algorithmic Trading, and playing around with Gen-AI 
+- Excited about Integrating OpenAI Specs into my projects, learning more about Algorithmic Trading, and playing around with [Gen-AI](https://github.com/akhilnev/AK21)
 
 ## 🤝 Let's Collaborate
 
