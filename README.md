@@ -47,8 +47,5 @@ I'm a firm believer in continuous learning and growth. Whether it's attending co
 ## 🔧 Technologies
 ![Git](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-git) &nbsp; ![GitHub](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-github) &nbsp; ![GitLab](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-gitlab) &nbsp; ![Spring](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-spring) &nbsp; ![Postman](https://ezicons.cftutorial.workers.dev/icons/?icons=skills-dark-postman) &nbsp; 
 
-##  ⌨️ and 🎧  To 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&cover_image=true&theme=novatorem&show_offline=true&background_color=ffa57d&interchange=false&bar_color=2c1376&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1vyi5nibm9e0v7qaw0y8zuhv1&redirect=true)
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!<3)](https://git.io/typing-svg)
