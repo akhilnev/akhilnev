@@ -6,6 +6,7 @@ I'm a software developer passionate about learning and working on new and exciti
 
 ## 🔭 What I'm Working On 
 
+- Building "searchAround.ai" - Empowering your non-linear mind-maps, thoughts and searches with the power of a LLM
 - Currently sharpening my skills in backend and full-stack development ( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), and [iOS](https://www.github.com/akhilnev/Iwear) )
 - Gaining DevOps experience by containerizing my existing projects in [Docker](https://www.github.com/akhilnev/docker-roadmap) and learning orchestration using Kubernetes, hosting them on AWS (EKS)
 - Learning Typescript and enhancing my [MERN Stack knowledge](https://github.com/akhilnev/100x_playground)
