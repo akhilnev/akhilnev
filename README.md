@@ -2,22 +2,24 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile;Feel+Free+to+explore!;)](https://git.io/typing-svg)
 
-I'm a software developer passionate about learning and working on new and exciting projects. My goal is to collaborate with like-minded individuals to create innovative solutions that make a positive impact.
+I'm a curious builder. I love the art of making things people believe isn't possible.
 
 ## What I'm Working On 
 
-- Building "searchAround.ai" - Empowering your non-linear mind-maps, thoughts and searches with the power of a LLM
-- Building "LLMYou" - A 3D Assistant and LLM Chatbot speacialising in you!
-- Currently sharpening my skills in backend and full-stack development ( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), and [iOS](https://www.github.com/akhilnev/Iwear) )
-- Gaining DevOps experience by containerizing my existing projects in [Docker](https://www.github.com/akhilnev/docker-roadmap) and learning orchestration using Kubernetes, hosting them on AWS (EKS)
+- Building "searchAround.ai" - Something new 
+- Building "LLMYou" - A Portfolio enhanced with a 3D Assistant and an LLM Chatbot ( [Prototype launched](https://llm-you.vercel.app/), working on improvements and bug fixes in free time ) 
+
+## My Interests and Experiences
+
+- Backend and full-stack development: ( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), and [iOS](https://www.github.com/akhilnev/Iwear) )
+- ML Models and Deployment(MLops):  [project](https://www.github.com/akhilnev/StockNNetPredict) using Tensorflow Serving.
+- Low-Level Stuff: [Pokemon game](https://www.github.com/akhilnev/327), and an [Orderbook](https://github.com/akhilnev/OrderBook) in C++ to explore writing low-level code, as opposed to my comfort language Java.
+- DevOps: containerizing my existing projects in [Docker](https://www.github.com/akhilnev/docker-roadmap) and learning orchestration using Kubernetes, hosting them on AWS (EKS)
 - Learning Typescript and enhancing my [MERN Stack knowledge](https://github.com/akhilnev/100x_playground)
-- Exploring MLOps and learning how to deploy my ML [project](https://www.github.com/akhilnev/StockNNetPredict) using Tensorflow Serving.
-- Building and enhancing a [Pokemon game](https://www.github.com/akhilnev/327), and an [Orderbook](https://github.com/akhilnev/OrderBook) in C++ to explore writing low-level code, as opposed to my comfort language Java.
-- Excited about Integrating OpenAI Specs into my projects, learning more about Algorithmic Trading, and playing around with [Gen-AI](https://github.com/akhilnev/AK21)
 
 ## Collaboration
 
-If you have an exciting project or are looking for a collaborator on an open-source project, I'd love to hear from you! Connect with me on [LinkedIn](https://www.linkedin.com/in/akhilnev/) or shoot me an email at [akhilesh.nevatia@gmail.com](mailto:Akhilesh.nevatia@gmail.com).
+If you are building something cool and believe I can help, I'd love to hear from you! Connect with me on [LinkedIn](https://www.linkedin.com/in/akhilnev/) / email: [akhilesh.nevatia@gmail.com](mailto:Akhilesh.nevatia@gmail.com) / DM me on [Twitter](https://x.com/akhilnev)
 
 ## Learning
 
