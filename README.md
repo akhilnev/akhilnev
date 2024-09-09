@@ -4,7 +4,7 @@
 
 I'm a software developer passionate about learning and working on new and exciting projects. My goal is to collaborate with like-minded individuals to create innovative solutions that make a positive impact.
 
-## 🔭 What I'm Working On 
+## What I'm Working On 
 
 - Building "searchAround.ai" - Empowering your non-linear mind-maps, thoughts and searches with the power of a LLM
 - Building "LLMYou" - A 3D Assistant and LLM Chatbot speacialising in you!
@@ -15,11 +15,11 @@ I'm a software developer passionate about learning and working on new and exciti
 - Building and enhancing a [Pokemon game](https://www.github.com/akhilnev/327), and an [Orderbook](https://github.com/akhilnev/OrderBook) in C++ to explore writing low-level code, as opposed to my comfort language Java.
 - Excited about Integrating OpenAI Specs into my projects, learning more about Algorithmic Trading, and playing around with [Gen-AI](https://github.com/akhilnev/AK21)
 
-## 🤝 Let's Collaborate
+## Collaboration
 
 If you have an exciting project or are looking for a collaborator on an open-source project, I'd love to hear from you! Connect with me on [LinkedIn](https://www.linkedin.com/in/akhilnev/) or shoot me an email at [akhilesh.nevatia@gmail.com](mailto:Akhilesh.nevatia@gmail.com).
 
-## 🌱 Always Learning
+## Learning
 
 I'm a firm believer in continuous learning and growth. Whether it's attending conferences, participating in hackathons, or tinkering with new technologies in my free time, I'm always looking for ways to challenge myself and push my limits.
 
