@@ -1,21 +1,21 @@
 # 👋 Hello there, I'm Akhilesh Nevatia!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile;Feel+Free+to+explore!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Akhils+Github+Profile;Feel+Free+to+explore;)](https://git.io/typing-svg)
 
 I'm a curious builder. I love the art of making things people believe isn't possible.
 
 ## What I'm Working On 
 
-- Building "searchAround.ai" - Something new 
+- Building "Searcharound AI" - Something new 
 - Building "LLMYou" - A Portfolio enhanced with a 3D Assistant and an LLM Chatbot ( [Prototype launched](https://llm-you.vercel.app/), working on improvements and bug fixes in free time ) 
 
 ## My Interests and Experiences
 
-- Backend and full-stack development: ( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), and [iOS](https://www.github.com/akhilnev/Iwear) )
-- ML Models and Deployment(MLops):  [project](https://www.github.com/akhilnev/StockNNetPredict) using Tensorflow Serving.
-- Low-Level Stuff: [Pokemon game](https://www.github.com/akhilnev/327), and an [Orderbook](https://github.com/akhilnev/OrderBook) in C++ to explore writing low-level code, as opposed to my comfort language Java.
+- Backend and full-stack development: ( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), [iOS](https://www.github.com/akhilnev/Iwear) )
+- ML Models and Deployment(MLops):  [project u can look at ](https://www.github.com/akhilnev/StockNNetPredict)
+- Low-Level Stuff: [Pokemon game](https://www.github.com/akhilnev/327), and an [Orderbook](https://github.com/akhilnev/OrderBook)
 - DevOps: containerizing my existing projects in [Docker](https://www.github.com/akhilnev/docker-roadmap) and learning orchestration using Kubernetes, hosting them on AWS (EKS)
-- Learning Typescript and enhancing my [MERN Stack knowledge](https://github.com/akhilnev/100x_playground)
+- Learning TS/JS and enhancing my [MERN Stack knowledge](https://github.com/akhilnev/100x_playground)
 
 ## Collaboration
 
