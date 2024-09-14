@@ -13,7 +13,7 @@ I'm a curious builder. I love the art of making things people believe isn't poss
 
 - Backend and full-stack development: ( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), [iOS](https://www.github.com/akhilnev/Iwear) )
 - ML Models and Deployment(MLops):  [project u can look @](https://www.github.com/akhilnev/StockNNetPredict)
-- Low-Level Stuff: [Pokemon game](https://www.github.com/akhilnev/327), and an [Orderbook](https://github.com/akhilnev/OrderBook)
+- Low-Level Stuff: [Pokemon game](https://www.github.com/akhilnev/327), [Orderbook](https://github.com/akhilnev/OrderBook)
 - DevOps: containerizing my existing projects in [Docker](https://www.github.com/akhilnev/docker-roadmap) and learning orchestration using Kubernetes, hosting them on AWS (EKS)
 - Learning TS/JS and enhancing my [MERN Stack knowledge](https://github.com/akhilnev/100x_playground)
 
@@ -23,7 +23,7 @@ If you are building something cool and believe I can help, I'd love to hear from
 
 ## Learning
 
-I'm a firm believer in continuous learning and growth. Whether it's attending conferences, participating in hackathons, or tinkering with new technologies in my free time, I'm always looking for ways to challenge myself and push my limits.
+I'm a firm believer in continuous learning and growth, staying at the edge of technology
 
 ## 📈 GitHub Activity Graph 
 
