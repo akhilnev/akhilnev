@@ -14,7 +14,7 @@ I'm a curious builder. I love the art of making things people believe isn't poss
 - Backend and full-stack development: ( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), [iOS](https://www.github.com/akhilnev/Iwear) )
 - ML Models and Deployment(MLops):  [project u can look @](https://www.github.com/akhilnev/StockNNetPredict)
 - Low-Level Stuff: [Pokemon game](https://www.github.com/akhilnev/327), [Orderbook](https://github.com/akhilnev/OrderBook)
-- DevOps: containerizing my existing projects in [Docker](https://www.github.com/akhilnev/docker-roadmap) and learning orchestration using Kubernetes, hosting them on AWS (EKS)
+- DevOps: learning containerizing in [Docker](https://www.github.com/akhilnev/docker-roadmap), orchestration using Kubernetes, hosting on AWS
 - Learning TS/JS and enhancing my [MERN Stack knowledge](https://github.com/akhilnev/100x_playground)
 
 ## Collaboration
