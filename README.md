@@ -7,7 +7,7 @@ I'm a curious builder. I love the art of making things people believe isn't poss
 ## What I'm Working On 
 
 - Building "Searcharound AI" - Something new 
-- Building "LLMYou" - A Portfolio enhanced with a 3D Assistant and an LLM Chatbot ( [Prototype launched](https://llm-you.vercel.app/), working on improvements and bug fixes in free time ) 
+- Building "LLMYou" - A Portfolio enhanced with a 3D Assistant and an LLM + RAG Architectured Chatbot ( [Prototype launched](https://llm-you.vercel.app/), working on improvements and bug fixes in free time ) 
 
 ## My Interests and Experiences
 
