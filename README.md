@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Akhilesh Nevatia!
+# Hello there, I'm Akhilesh Nevatia!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Akhils+Github+Profile;Feel+Free+to+explore;)](https://git.io/typing-svg)
 
