@@ -6,7 +6,7 @@ I work with a builder mindset & I love the art of making things people believe i
 
 ## What I'm Working On 
 
-- Building "Searcharound AI" - Build your own Mind-Maps Powered by Information of the Web and an LLM
+- Actively Building "Searcharound AI" - Build your own Mind-Maps Powered by Information of the Web and an LLM
 - Building "LLMYou" - A Portfolio enhanced with a 3D Assistant and an LLM + RAG Architectured Chatbot ( [Prototype launched](https://llm-you.vercel.app/), working on improvements and bug fixes in free time ) 
 
 ## My Interests and Experiences
