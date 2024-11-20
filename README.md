@@ -7,8 +7,8 @@ I work with a builder mindset & I love the art of making things people believe i
 ## What I'm Working On 
 
 - Actively Building "Searcharound AI" - Tool to build your own Mind-Maps Powered by Information of the Web and an LLM
-- Building "LLMYou" - A Portfolio enhanced with a 3D Assistant and an LLM + RAG Architectured Chatbot ( [Prototype launched](https://llm-you.vercel.app/), working on improvements and bug fixes in free time )
 - Interpretability of code trained LLMs (Specializing in HPC Code ) - pip install NeuroXCode --index-url https://git.ece.iastate.edu/api/v4/projects/6616/packages/pypi/simple (Under Active Development & Change)
+- Building "LLMYou" - A Portfolio enhanced with a 3D Assistant and an LLM + RAG Architectured Chatbot ( [Prototype launched](https://llm-you.vercel.app/), working on improvements and bug fixes in free time )
 
 ## My Interests and Experiences
 
