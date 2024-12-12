@@ -14,7 +14,7 @@ I work with a builder mindset & I love the art of making things people believe i
 
 - Backend and full-stack development: ( [Android](https://www.github.com/akhilnev/SwipeHire), [Web](https://www.github.com/akhilnev/Melophilia), [iOS](https://www.github.com/akhilnev/Iwear) )
 - ML Models and Deployment(MLops):  [project u can look @](https://www.github.com/akhilnev/StockNNetPredict)
-- Low-Level Stuff: [Pokemon game](https://www.github.com/akhilnev/327), [Orderbook](https://github.com/akhilnev/OrderBook), Multithreaded-Encryptor
+- Low-Level Stuff: [Pokemon game](https://www.github.com/akhilnev/327), [Orderbook](https://github.com/akhilnev/OrderBook), [Multithreaded-Encryptor](https://github.com/akhilnev/Multithreaded-Encryptor/)
 - DevOps: learning containerizing in [Docker](https://www.github.com/akhilnev/docker-roadmap), orchestration using Kubernetes, hosting on AWS
 - Learning TS/JS and enhancing my [MERN Stack knowledge](https://github.com/akhilnev/100x_playground)
 
