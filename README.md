@@ -26,14 +26,10 @@ If you are building something cool and believe I can help, I'd love to hear from
 
 I'm a firm believer in continuous learning and growth, staying at the edge of technology
 
+<!--
 ## 📈 GitHub Activity Graph 
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilnev&hide=issues&bg_color=151515" alt="GitHub Activity Graph">
-  </a>
-</p>
+<!-- GitHub Activity Graph --> <p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilnev&hide=issues&bg_color=151515" alt="GitHub Activity Graph"> </a> </p> -->
 
 ## 📈 GitHub Streaks and Top Languages Stats
 
