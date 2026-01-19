@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Akhils+Github+Profile;Feel+Free+to+explore;)](https://git.io/typing-svg)
 
-I work with a builder mindset & I love the art of making things people believe isn't possible - (e/acc) 
+I work with a builder mindset & I love the art of making things people believe isn't possible
 
 ## What I'm Working On 
 
