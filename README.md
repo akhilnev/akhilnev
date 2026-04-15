@@ -1,8 +1,8 @@
-# Hello there, I'm Akhilesh Nevatia!
+# Hello there, I'm Akhilesh Nevatia
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Akhils+Github+Profile;Feel+Free+to+explore;)](https://git.io/typing-svg)
 
-I dont love software -- but do believe software is the quickest medium to solve the most complex problems around us. Thus, here I am!
+I dont love software -- but I do believe software is the quickest medium to solve the most complex problems around us
 
 ## What I'm Working On 
 
